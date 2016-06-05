@@ -1,2 +1,2 @@
 # FileDump
-Dump for sharing files
+Dump for sharing files. Each project will have a branch.
