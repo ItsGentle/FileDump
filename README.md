@@ -1,2 +1,2 @@
 # FileDump
-Dump for sharing files. Each project will have a branch.
+Dump for sharing files for the *Cosmetics* plugin
