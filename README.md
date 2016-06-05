@@ -1,2 +1,2 @@
 # FileDump
-Dump for sharing files for the *Cosmetics* plugin
+Dump for sharing files for the _Cosmetics_ plugin
